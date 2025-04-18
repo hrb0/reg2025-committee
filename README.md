@@ -1,2 +1,3 @@
-# reg2025-committee
-reg2025 committee
+# REG2025-committee
+
+https://reg2025.grand-challenge.org/organizers/
